@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-🔭 I’m currently working on aligning the different aspects of my digital life...
+🔭 I’m working on learning new things, aligning different aspects of my digital life, and having fun...
 <!--
 **miketarrant/miketarrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
