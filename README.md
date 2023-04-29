@@ -2,7 +2,7 @@
 <br>
 🔭 I’m learning new things, aligning different aspects of my digital life, and having fun...
 
-<a rel="me" href="https://techhub.social/@miketarrant">Mastodon</a>
+<a rel="me" href="https://techhub.social/@miketarrant"></a>
 <!--
 **miketarrant/miketarrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
