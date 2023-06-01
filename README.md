@@ -1,7 +1,8 @@
 ### Hi there 👋
-![Version of the progressive Pride flag for 2023](/assets/mastodon_background_lego_pride_flag_1500x500.png)
-<br>
+</br>
 🔭 I’m learning new things, aligning different aspects of my digital life, and having fun...
+</br>
+![Version of the progressive Pride flag for 2023](/assets/mastodon_background_lego_pride_flag_1500x500.png)
 
 <a rel="me" href="https://techhub.social/@miketarrant"></a>
 <!--
